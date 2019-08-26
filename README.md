@@ -1,0 +1,1 @@
+This project extracts the model for AWS step functions into its own repo.
