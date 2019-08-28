@@ -199,22 +199,6 @@ public final class StateMachine {
             return this;
         }
 
-        public Map<String, State.Builder> getStates() {
-            return states;
-        }
-
-        public String getComment() {
-            return comment;
-        }
-
-        public String getStartAt() {
-            return startAt;
-        }
-
-        public Integer getTimeoutSeconds() {
-            return timeoutSeconds;
-        }
-
         /**
          * @return An immutable {@link StateMachine} object that can be transformed to JSON via {@link StateMachine#toJson()}.
          */

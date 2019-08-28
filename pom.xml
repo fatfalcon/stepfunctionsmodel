@@ -6,7 +6,7 @@
 
     <groupId>com.fatfalcon</groupId>
     <artifactId>stepfunctionsmodel</artifactId>
-    <version>1.0.1-RELEASE</version>
+    <version>1.0.2-RELEASE</version>
 
     <name>Step Functions Model</name>
     <description>The model for AWS Step Functions</description>
